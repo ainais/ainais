@@ -6,11 +6,6 @@ B2B 자동차 부품 유통 플랫폼에서 NestJS·React 서비스와 LLM 기�
 - 📝 블로그: [ainais.tistory.com](https://ainais.tistory.com/)
 - 📍 Seongnam, Korea
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img alt="ainais 활동 그래프" src="assets/activity-light.svg">
-</picture>
-
 ### 대표 프로젝트
 
 | 프로젝트 | 무엇을 만들었나 | 역할 · 스택 |
