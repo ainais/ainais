@@ -7,8 +7,8 @@ B2B 자동차 부품 유통 플랫폼에서 NestJS·React 서비스와 LLM 기�
 - 📍 Seongnam, Korea
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ainais&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true">
-  <img alt="ainais 활동 그래프" src="https://github-readme-activity-graph.vercel.app/graph?username=ainais&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="ainais 활동 그래프" src="assets/activity-light.svg">
 </picture>
 
 ### 대표 프로젝트
