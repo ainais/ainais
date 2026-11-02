@@ -20,14 +20,14 @@
 
 | 프로젝트 | 소개 | 스택 | 상태 |
 |---|---|---|---|
-| [**boxing-commerce**](https://github.com/ainais/boxing-commerce) | 복싱용품 가격을 비교하고 판매처로 연결하는 정보 제공 플랫폼. 웹 프로토타입과 상품 조회 API 개발 중이고 수집 배치는 예정 | Spring Boot(Java 21) · Next.js · PostgreSQL | 진행 중 |
+| [**boxing-commerce**](https://github.com/ainais/boxing-commerce) | 복싱용품 가격 비교 서비스. 쇼핑몰 2곳의 상품을 Jenkins 스케줄로 수집해 판매처별 가격·품절·가격 이력을 비교하고, Docker로 배포해 Cloudflare Tunnel로 공개합니다. ([boxingeverything.site](https://boxingeverything.site)) | Spring Boot(Java 21) · Next.js · Python · PostgreSQL · Docker · Jenkins | 운영 중 |
 | [**routineq**](https://github.com/ainais/routineq) | 프롬프트로 매일 공부 문제를 만들어 주는 루틴 앱. 이전 버전은 Google Play 내부 테스트까지 진행했고 모노레포로 재개발 예정 | NestJS · React · React Native · PostgreSQL | 진행 예정 |
 
 ### 기술 스택
 
 | 영역 | 기술 |
 |---|---|
-| Backend | TypeScript/NestJS, Java/Spring Boot, Python/FastAPI, PostgreSQL, Redis |
+| Backend | TypeScript/NestJS, Java/Spring Boot, Python/FastAPI·크롤링, PostgreSQL, Redis |
 | Frontend · App | React, React Native(Expo), Flutter |
 | AI | LangChain, RAG, ReAct Agent, OpenAI API, YOLO |
 | Infra | AWS(EKS·EC2·S3), Docker, Kubernetes, Jenkins, GitHub Actions, Cloudflare Tunnel |
